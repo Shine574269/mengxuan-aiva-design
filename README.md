@@ -1,15 +1,24 @@
-# mengxuan-aiva-design
+# AIVA — AI Life Steward App (Interaction Design)
 
-Project materials by Mengxuan Shen.
+Interaction-design coursework (2025): team concept, individual design. README by **Mengxuan Shen**.
 
-This is a curated public portfolio repository. Project writeups and original coursework materials are attributed as individual or collaborative in the portfolio site.
+**Portfolio page with walkthrough video:** https://shine574269.github.io/projects/aiva-app-design.html
+
+AIVA is a personal-assistant app concept that brings scheduling, nutrition and everyday decisions into one guided interface. A survey of 70 people pointed to these as recurring needs usually spread across separate apps.
+
+## My contribution
+- Turned the team concept into Figma screen flows, from wireframes to high-fidelity prototypes.
+- Designed the poster framework and documented six rounds of interface revision.
+- Edited the walkthrough video.
 
 ## Files
-- `AIVA_Group_Poster.pdf`
-- `AIVA_Design_Portfolio.pdf`
-- `AIVA_Individual_Video.mp4`
-- `AIVA_Individual_Presentation.pptx`
-- `AIVA_Poster_Preview.jpg`
+| File | Contents |
+|---|---|
+| `AIVA_Individual_Video.mp4` | Design presentation and prototype walkthrough |
+| `AIVA_Individual_Presentation.pptx` | Individual presentation slides |
+| `AIVA_Design_Portfolio.pdf` | Individual design portfolio: interface development and iterations |
+| `AIVA_Group_Poster.pdf` | Group concept poster |
+| `AIVA_Poster_Preview.jpg` | Poster preview image |
 
-## Notes
-Please check licences and team permissions before redistribution. Files with embedded API keys, private settings and caches should not be committed.
+## Credits
+The AIVA concept and poster were created with my team. I edited the video in 剪映 (CapCut); its stock clips come from the app's built-in media library. Some screens in the video and documents use placeholder photos, for non-commercial coursework only.
